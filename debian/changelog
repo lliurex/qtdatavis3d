@@ -1,8 +1,9 @@
-qtdatavis3d-everywhere-src (5.15.1) unstable; urgency=medium
+qtdatavis3d-everywhere-src (5.15.1-0) focal; urgency=medium
 
-  * Upload to unstable.
+  * New focal release with 5.15.1 version for testing
+  * Remove debian/rules test generation/execution because breaks build
 
- -- Dmitry Shachnev <mitya57@debian.org>  Wed, 24 Jun 2020 12:22:51 +0300
+ -- M.Angel Juan <m.angel.juan@gmail.com>  Tue, 15 Sep 2020 12:53:35 +0200
 
 qtdatavis3d-everywhere-src (5.14.2-1) experimental; urgency=medium
 
